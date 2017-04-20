@@ -1,0 +1,23 @@
+c:\users\estudiante\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\estudiante\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\estudiante\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\estudiante\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\estudiante\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\estudiante\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+c:\users\estudiante\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+F:\TEMPORIZADOR\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+F:\TEMPORIZADOR\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+F:\TEMPORIZADOR\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\TEMPORIZADOR\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\TEMPORIZADOR\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\TEMPORIZADOR\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\TEMPORIZADOR\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\TEMPORIZADOR\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\TEMPORIZADOR\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\TEMPORIZADOR\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\TEMPORIZADOR\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\TEMPORIZADOR\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\TEMPORIZADOR\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\TEMPORIZADOR\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\TEMPORIZADOR\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\TEMPORIZADOR\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
